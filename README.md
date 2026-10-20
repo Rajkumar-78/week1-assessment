@@ -44,3 +44,6 @@
 - Search for Chennai in Git Bash using `grep -in "Chennai" data/*.csv`.
 - Open a Pull Request into `main`, resolve a deliberate README conflict, and merge.
 - Capture `git log --oneline --graph --all` and submit the screenshot plus the real PR URL.
+
+## Assessment Progress
+- Added analysis workflow and department budget summary.
