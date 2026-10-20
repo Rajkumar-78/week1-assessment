@@ -1,9 +1,4 @@
-# week1-assessment — Task 4
 
-## Setup (Windows PowerShell)
-
-1. Extract the ZIP.
-2. Open PowerShell in the extracted `week1-assessment` folder.
 3. Install Python 3 if needed, then run:
    ```powershell
    python -m pip install pandas jupyter nbconvert
@@ -23,10 +18,6 @@
    ```
    Move the generated `notebooks/analysis.py` into `src` if you want to keep the export there.
 
-## Data note
-
-`departments.csv` uses the department data supplied in the conversation.
-`employees.csv` is illustrative sample data because the original employee file was not provided. Replace it with your assessment file before submitting, keeping the actual column names in mind.
 
 ## Five-line summary of findings
 
