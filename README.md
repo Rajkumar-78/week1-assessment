@@ -48,7 +48,11 @@
 ## Assessment Progress
 - Added analysis workflow and department budget summary.
 
+<<<<<<< HEAD
 ## Pull Request Update
 Feature branch analysis documentation.
 
 Feature branch note: Employee city analysis.
+=======
+Main branch note: Department budget analysis.
+>>>>>>> main
