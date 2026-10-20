@@ -47,3 +47,5 @@
 
 ## Assessment Progress
 - Added analysis workflow and department budget summary.
+
+Main branch note: Department budget analysis.
